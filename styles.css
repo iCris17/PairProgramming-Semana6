@@ -24,6 +24,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #ecf1f8;
+    font-family: DejaVu Serif;
 }
 
 *, *::before, *::after{
